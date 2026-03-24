@@ -4,7 +4,7 @@ Minimal Counter è un'applicazione sviluppata in puro JavaScript che implementa 
 L’interfaccia viene generata dinamicamente tramite la manipolazione del DOM e consente all’utente di incrementare e decrementare un valore numerico con un’esperienza fluida e minimale.
 
 ## Demo online
-Link: http://127.0.0.1:5500/index.html
+Link: https://elpidioalessandro.github.io/Minimal-Counter/
 
 ## Screenshoot 
 <img width="1440" height="797" alt="Screenshot 2026-03-24 alle 18 17 09" src="https://github.com/user-attachments/assets/8c6daca7-c84f-4ec8-85a3-f93b111ae0fd" />
@@ -18,7 +18,7 @@ Link: http://127.0.0.1:5500/index.html
 - Controllo tramite tastiera (+ / - / r)
 
 ## Tecnologie usate
-- JavaScript (Vanilla)
+- JavaScript
 - HTML5
 - CSS3 (iniettato via JavaScript)
 - Web APIs (DOM manipulation, localStorage)
